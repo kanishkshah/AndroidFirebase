@@ -32,5 +32,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/Dbbutton"
-        android:text="Database op1"/>
+        android:text="Write data to db"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Dbread"
+        android:text="Read data from db"
+        />
 </LinearLayout>
